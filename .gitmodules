@@ -1,3 +1,6 @@
 [submodule "trick"]
 	path = trick
 	url = https://github.com/oluwsegun99/trick.git
+[submodule "trick2"]
+	path = trick2
+	url = https://github.com/oluwsegun99/trick.git
